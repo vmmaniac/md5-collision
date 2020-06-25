@@ -1,1 +1,1 @@
-md5sum --check md5sum.txt
+md5sum --check md5.txt
